@@ -4,8 +4,8 @@
 
 /**
 *main- Determines if a number is positive, negative or zero
-*Description - To assign a random number
-*Returns Always 0 (success)
+*Description - 'To assign a random number'
+*Return: Always 0 (success)
 */
 
 int main(void)
