@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
 /**
 *main - Printing alphabet in lowercase
@@ -10,7 +11,7 @@
 int main(void)
 {
 	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
-	int n;
+	int i;
 
 	for (i = 0; i < 26; i++)
 	{
