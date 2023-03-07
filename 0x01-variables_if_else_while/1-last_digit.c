@@ -36,6 +36,12 @@ int main(void)
 
 	}
 
+	if (m < 6 && m != 0)
+	{
+		printf("Last digit of %d is %d and is less than 6 and not less than 0\n",
+		n, n % 10);
+	}
+
 	return (0);
 
 }
